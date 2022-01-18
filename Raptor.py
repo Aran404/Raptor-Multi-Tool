@@ -124,7 +124,7 @@ def tool():
    [04] DELETE ALL PERSONAL SERVERS 
    [05] LEAVE ALL SERVERS
    [06] {Fore.RESET}{Fore.RED}TOTAL KARNAGE{Fore.RESET}
-   [07] EXIT
+   {Fore.BLUE}[07] EXIT
    
    [\>]''')
     if options4 in ['1','01']:
