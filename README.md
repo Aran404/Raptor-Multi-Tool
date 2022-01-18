@@ -35,7 +35,7 @@ Read the LICENSE that was given in the program, but if you don't want to read it
 
 You can give this program away,
 You cannot charge people to get this program,
-YOU CANNOT REMOVE ANY CREDITS OR IDENTIFICATION ON ANYTHING THAT WE PUT IT ON
+YOU CANNOT REMOVE ANY CREDITS OR IDENTIFICATION ON ANYTHING THAT WE PUT
 
 ______
 
