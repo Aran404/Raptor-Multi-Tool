@@ -1,7 +1,7 @@
 Features ✨
 ______
 
-22 Features, 5 credits, 6 features in both All In Ones
+22 Features, 5 credits, 6 features in both All In Ones,
 Best Features are Token Nukers, token managers and probably the raiding (these are fairly slow but not my problem)
 ______
 
