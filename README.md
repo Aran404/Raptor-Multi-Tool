@@ -10,7 +10,7 @@ ______
 
 Just run PackageInstaller.bat then run Raptor.py (Obviously you have to have python), note that this uses ctypes which is strictly for Windows only. 
 If you are an user who is on a different OS just go through the code and delete all the lines that has ctypes as there is no module for window title 
-except ones for only windows.
+except ones for only windows, or just use replit.
 ______
 
 Credits 🤝
