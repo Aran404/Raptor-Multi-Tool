@@ -46,5 +46,5 @@ I have made this program free because why not, star this project if you like it,
 we might fix we might not, its just how it goes BY THIS I MEAN I WILL NOT MAINTAIN THIS PROJECT PROPERLY, 
 and I know that it will get skidded but what can you do?
 This was not obfuscated because thats sketch af so look at the src to look for any grabber or if you want to learn Api's and stuff
-You can add Aran or Vivid if you encounter any bugs and we will fix it, Hope You Enjoy!!
+You can add Aran or Vivid if you encounter any bugs and we will fix it, Hope You Enjoy!
 
