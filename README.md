@@ -1,6 +1,8 @@
 Promises 🔥
 ______
 
+20 Stars and I'll fix every error that there is
+
 50 Stars and we will add a whole new page for even more things!
 
 Features ✨
